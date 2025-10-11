@@ -12,4 +12,8 @@ This project implements an "FPGA-based I²C Address Translator" that allows devi
 - FSM-based logic design with shift registers and counters.
 - Verified with simulation and waveform output.
 
- Directory Structure
+ Tools Used:
+- Icarus Verilog 
+- GTKWave for waveform analysis
+Author:
+-PRATHAM SONI — FPGA and Digital Design Enthusiast
